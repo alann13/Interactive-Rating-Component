@@ -154,3 +154,7 @@ input[type='submit']:hover {
     font-size: 0.875rem;
   }
 }
+
+label {
+  margin-left: -1px;
+}
